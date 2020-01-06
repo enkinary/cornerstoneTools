@@ -1,8 +1,8 @@
 {
-  "name": "jcornerstone-tools",
-  "version": "0.0.6",
+  "name": "jcornerstone-tools-temp",
+  "version": "0.0.2",
   "description": "Medical imaging tools for the Cornerstone library",
-  "main": "./dist/jcornerstoneTools.js",
+  "main": "./dist/cornerstoneTools.js",
   "keywords": [
     "DICOM",
     "medical",
@@ -93,10 +93,10 @@
     "cornerstone-math": "0.1.7"
   },
   "files": [
-    "dist/jcornerstoneTools.js",
-    "dist/jcornerstoneTools.js.map",
-    "dist/jcornerstoneTools.min.js",
-    "dist/jcornerstoneTools.min.js.map"
+    "dist/cornerstoneTools.js",
+    "dist/cornerstoneTools.js.map",
+    "dist/cornerstoneTools.min.js",
+    "dist/cornerstoneTools.min.js.map"
   ],
   "jest": {
     "verbose": true,
