@@ -93,10 +93,10 @@
     "cornerstone-math": "0.1.7"
   },
   "files": [
-    "dist/cornerstoneTools.js",
-    "dist/cornerstoneTools.js.map",
-    "dist/cornerstoneTools.min.js",
-    "dist/cornerstoneTools.min.js.map"
+    "dist/jcornerstoneTools.js",
+    "dist/jcornerstoneTools.js.map",
+    "dist/jcornerstoneTools.min.js",
+    "dist/jcornerstoneTools.min.js.map"
   ],
   "jest": {
     "verbose": true,
